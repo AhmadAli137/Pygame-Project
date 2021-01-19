@@ -1,1 +1,2 @@
 # Pygame-Project
+A Python project which uses Pygame to create a 2D RPG-style mini game using only home-made graphics. In this game, you are an undergraduate engineering student at risk of failing your integral caculus exam. You've decided that desperate times require desperate measures and decide to break into your professor's house to steal the exam papers. The objective of the game is to collect all of the scattered exam pages scattered randomly throughout your professor's house without getting caught by the professor himself.
