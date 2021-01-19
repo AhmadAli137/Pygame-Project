@@ -1,0 +1,8 @@
+NPC_red:[My name is Red.]
+NPC_red:[Red is my favorite color because it is the color of fire!]
+
+NPC_green:[My name is Green.]
+NPC_green:[Green is my favorite color because it is the color of the Earth!]
+
+NPC_blue:[My name is Blue.]
+NPC_blue:[Blue is my favorite color because it is the color of the ocean!]
